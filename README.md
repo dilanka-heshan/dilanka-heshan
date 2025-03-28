@@ -13,7 +13,7 @@
 - 🏆 **Achievements**:
   - 🏅 Winner - **Cybersprint (CTF) by APIIT Sri Lanka & Virtusa**
   - 🥈 First Runner-Up - **Tech-Triathlon 2024 by Rootcode**
-  - 📜 **Mahapola Merit Scholarship** for academic excellence
+
 
 ---
 
