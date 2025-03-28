@@ -9,7 +9,6 @@
 ### 🔥 About Me:
 - 🧠 **Data Science & AI**: Passionate about ML models, end-to-end AI solutions, and chatbot integrations.
 - 💻 **Full-Stack Development**: Proficient in React, Next.js, TypeScript, and backend technologies.
-- 🌐 **Entrepreneurship**: Founder of **Siyomart**, an e-commerce platform for Sri Lankan handmade products.
 - 🏆 **Achievements**:
   - 🏅 Winner - **Cybersprint (CTF) by APIIT Sri Lanka & Virtusa**
   - 🥈 First Runner-Up - **Tech-Triathlon 2024 by Rootcode**
