@@ -13,7 +13,6 @@
   - 🏅 Winner - **Cybersprint (CTF) by APIIT Sri Lanka & Virtusa**
   - 🥈 First Runner-Up - **Tech-Triathlon 2024 by Rootcode**
 
-
 ---
 
 ### 🛠️ Tech Stack:
@@ -26,10 +25,17 @@
 
 ---
 
-### 📌 Featured Projects:
-- 🔹 **Siyomart** - An AI-powered e-commerce platform. *(Next.js, MongoDB, AI-powered recommendations)*
-- 🔹 **AI-driven Car Recommendation System** - ML model suggests the best car based on user preferences.
-- 🔹 **IoT-based Fire Detection** - Real-time smoke detection with Raspberry Pi and cloud alerts.
+### 📌 Featured & Completed Projects:
+- 🔹 **Siyomart** - An AI-powered e-commerce platform. *(Next.js, MongoDB, AI-powered recommendations)*  
+- 🔹 **AI-driven Car Recommendation System** - ML model suggests the best car based on user preferences.  
+- 🔹 **IoT-based Fire Detection** - Real-time smoke detection with Raspberry Pi and cloud alerts.   
+- 🔹 **Explore Sri Lanka** - Full-stack travel website with AI trip planner using Next.js and FastAPI.  
+- 🔹 **CSE Insight** - AI-powered stock & dividend analysis suite with trend prediction and market reports.
+
+---
+
+### 📊 GitHub Stats:
+![Dilanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilanka-heshan&show_icons=true&count_private=true&theme=radical)
 
 ---
 
