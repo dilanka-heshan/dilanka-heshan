@@ -35,7 +35,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Dilanka's GitHub Contributions](https://github.com/dilanka-heshan.png?size=100)
+![Dilanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilanka-heshan&show_icons=true&count_private=true&theme=radical)
 
 ---
 
