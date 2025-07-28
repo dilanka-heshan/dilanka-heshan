@@ -32,10 +32,6 @@
 - 🔹 **Explore Sri Lanka** - Full-stack travel website with AI trip planner using Next.js and FastAPI.  
 - 🔹 **CSE Insight** - AI-powered stock & dividend analysis suite with trend prediction and market reports.
 
----
-
-### 📊 GitHub Stats:
-![Dilanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilanka-heshan&show_icons=true&count_private=true&theme=radical)
 
 ---
 
