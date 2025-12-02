@@ -1,7 +1,7 @@
 ### Hi there, I'm Dilanka Heshan! 👋
 
 🚀 **AI & Data Science  | Full-Stack Developer | Tech Enthusiast**  
-🎓 **Undergraduate at University of Moratuwa**  
+🎓 **University of Moratuwa**  
 🌍 **Passionate about AI, web development, IoT, and business innovation**
 
 ---
